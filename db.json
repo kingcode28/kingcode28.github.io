@@ -1,0 +1,28 @@
+{
+  "listUser": [
+    {
+      "id": 1,
+      "name": "Đỗ Thành Hậu",
+      "phone": "0344943353",
+      "numHouse": "09 Lý Thái Tổ",
+      "note": "",
+      "region": "Phường Nguyễn Văn Cừ, Thành phố Quy Nhơn, Bình Định"
+    },
+    {
+      "id": 2,
+      "name": "Lê Ngọc Quý",
+      "phone": "0344943353",
+      "numHouse": "08 Bế Văn Đàn",
+      "note": "Tầng 11",
+      "region": "Phường Ghềnh Ráng, Thành phố Quy Nhơn, Bình Định"
+    },
+    {
+      "id": 3,
+      "name": "Nguyễn Thành Duy",
+      "phone": "0344943353",
+      "numHouse": "42 Nguyễn Nhạc",
+      "note": "",
+      "region": "Phường Ngô Mây, Thành phố Quy Nhơn, Bình Định"
+    }
+  ]
+}
