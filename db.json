@@ -22,5 +22,13 @@
     "note": "abc",
     "region": "Phường Ngô Mây, Thành phố Quy Nhơn, Bình Định"
   }
+  ,
+  {
+    "id": 3,
+    "name": "Nguyễn Thành Duy",
+    "numHouse": "42 Nguyễn Nhạc",
+    "note": "abc",
+    "region": "Phường Ngô Mây, Thành phố Quy Nhơn, Bình Định"
+  }
 ]
 }
