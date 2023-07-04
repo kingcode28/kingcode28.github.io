@@ -22,5 +22,13 @@
     "numHouse": "42 Nguyễn Nhạc",
     "note": "abc",
     "region": "Phường Ngô Mây, Thành phố Quy Nhơn, Bình Định"
+  },
+   {
+    "id": 4,
+    "name": "Nguyễn Thành huy",
+    "phone": "0344943322",
+    "numHouse": "45 Nguyễn Nhạc",
+    "note": "abc",
+    "region": "Phường Ngô Mây, Thành phố Quy Nhơn, Bình Định"
   }
 ]
