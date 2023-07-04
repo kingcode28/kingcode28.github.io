@@ -22,5 +22,13 @@
     "numHouse": "42 Nguyễn Nhạc",
     "note": "",
     "region": "Phường Ngô Mây, Thành phố Quy Nhơn, Bình Định"
+  },
+  {
+    "id": 4,
+    "name": "Add item 4"
+    "phone": "325232626",
+    "numHouse": "42 le duan",
+    "note": "",
+    "region": "Phuong"
   }
 ]
